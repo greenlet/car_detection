@@ -1,0 +1,5 @@
+train: /home/misha/prog/car_detection/vehicles_416x416_yolov5pytorch/train/images
+val: /home/misha/prog/car_detection/vehicles_416x416_yolov5pytorch/valid/images
+
+nc: 5
+names: ['Ambulance', 'Bus', 'Car', 'Motorcycle', 'Truck']
